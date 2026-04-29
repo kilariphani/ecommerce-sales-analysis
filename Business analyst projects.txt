@@ -1,0 +1,38 @@
+
+
+ecommerce-sales-analysis/
+│
+├── README.md
+│
+├── data/
+│   └── orders.csv
+│
+├── sql/
+│   └── analysis.sql
+│
+├── dashboard/
+│   ├── dashboard1.png
+│   └── dashboard2.png
+│
+├── reports/
+│   └── insights.md
+
+# E-commerce Sales & Customer Insights Analysis
+
+## Overview
+This project analyzes e-commerce sales data to identify revenue trends, customer behavior, and profitability.
+
+## Tools Used
+- SQL
+- Excel
+- Power BI
+
+## Key Insights
+- Top customers contribute ~40% of total revenue
+- Some regions show losses due to high discounts
+- Profit varies across categories
+
+## Recommendations
+- Optimize discount strategy
+- Focus on high-value customers
+- Improve pricing in low-profit regions
